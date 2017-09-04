@@ -67,7 +67,7 @@ public class ADUS {
 		return true;
 	}
 	/*
-	 * seatch
+	 * search
 	 */
 	public List<User> searchTemp(String sql){
 		String warn = null;
